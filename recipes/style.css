@@ -1,0 +1,14 @@
+#head1{
+    text-align: center;
+    color: white;
+    background-color: brown;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+.head3{
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
